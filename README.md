@@ -27,7 +27,7 @@ I am eager to expand my knowledge and contribute to innovative AI-driven solutio
 
 ---
 
-🔗 **[Project Repository](https://github.com/yourusername/Graduation-Project)**  
+🔗 **[Graduation Project](https://github.com/Mohammedk95/Graduation-Project)**  
 
 ---
 
