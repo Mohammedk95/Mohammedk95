@@ -7,16 +7,16 @@
 ---
 
 ## 🚀 **About Me**
-I am an enthusiastic **BSc Computer Science** graduate passionate about **Artificial Intelligence, Deep Learning, and Cloud Computing**. I have hands-on experience with **Machine Learning, Convolutional Neural Networks (CNNs), and SAP S/4HANA Development**. My graduation project focused on **pothole and crack detection on roads** using **deep learning models**.
+I am an enthusiastic **BSc Computer Science** graduate passionate about **Artificial Intelligence, Deep Learning, and Cloud Computing**. I have hands-on experience with **Machine Learning, Convolutional Neural Networks (CNNs), and SAP S/4HANA Development**. My graduation project focused on **pothole and cracks detection on roads** using **deep learning models**.
 
 I am eager to expand my knowledge and contribute to innovative AI-driven solutions!
 
 ## 💻 **Technical Skills**
 ### 🔹 **AI & Machine Learning**
 - Convolutional Neural Networks (CNNs)
+- Deep Learning (TensorFlow, Keras)
 - Computer Vision, Image Processing
 - Object Detection (YOLO, OpenCV)
-- Deep Learning (TensorFlow, Keras)
 
 ### 🔹 **Software & Tools**
 - **Programming:** Python, Java, ABAP (SAP)
